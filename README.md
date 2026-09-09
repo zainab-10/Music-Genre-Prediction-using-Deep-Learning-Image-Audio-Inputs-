@@ -2,7 +2,7 @@
 
 This project demonstrates a music genre prediction system that leverages deep learning by combining both **album cover images** and **audio samples**. The web-based application, built with **Flask**, allows users to upload an image and audio file, which are processed to predict the genre using a **fine-tuned InceptionV3 model** and **Librosa** for audio feature extraction.
 
-![Output Example](https://github.com/zainab-10/Music-Genre-Prediction-using-Deep-Learning-Image-Audio-Inputs-/blob/main/Screenshot%202024-10-07%20235948.png)  <!-- Replace with your actual image URL -->
+![Output Example](https://github.com/zainab-10/Music-Genre-Prediction-using-Deep-Learning-Image-Audio-Inputs-/blob/main/output.png)  <!-- Replace with your actual image URL -->
 
 ## Features
 - Multi-modal learning: Uses both image and audio inputs for genre prediction.
